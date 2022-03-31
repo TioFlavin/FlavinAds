@@ -4,13 +4,13 @@
 * Credenciais para conexão com o Banco de Dados.
 **/
 
-define ('HOST', 'localhost');
+define ('HOST', 'ec2-3-230-122-20.compute-1.amazonaws.com');
 
-define ('USUARIO', 'usuario');
+define ('USUARIO', 'xkpicqcwkgkefp');
 
-define ('SENHA', 'senha');
+define ('SENHA', '201bff122d568104d95c373ec3ae48504b8d508f884b99fa76653f1e85d28ca3');
 
-define ('BD', 'bancoDeDados');
+define ('BD', 'dehaak4nq6a2br');
 
 /**
 * Caso queira guardar erros SQL
@@ -18,11 +18,11 @@ define ('BD', 'bancoDeDados');
 
 define ('ERROS_SQL', false);
 
-define ('TOKEN', 'BOT_TOKEN');
+define ('TOKEN', '5167187800:AAH7LMvlE7BPpZJ0SSYQcXb3MICakU4QStY');
 
-define ('CANAL', '@seucanal');
+define ('CANAL', '@FlavinAdS');
 
-define ('ADM', '275123569');
+define ('ADM', '5030535253');
 
 define ('TIME_ZONE', 'America/Sao_Paulo');
 
@@ -37,7 +37,7 @@ define ('LIMITAR_DIVULGACAO', true);
 * O tempo padrão e 24h em segundos 86400.
 **/
 
-define ('PROXIMA_DIVULGACAO', 86400);
+define ('PROXIMA_DIVULGACAO', 300);
 
 /**
 * Número de advertências para o usuário ser bloqueado.
@@ -55,10 +55,10 @@ define ('BANNER_RETIBUIR', '');
 * Se true o usuário terá que se tornar membro do canal para que possa fazer divulgações.
 **/
 
-define ('SO_MEMBROS', false);
+define ('SO_MEMBROS', true);
 
 /*
 * Se true a divulgação será enviada diretamente para o canal sem passar pela confirmação do adm.
 */
 
-define ('DIVULGACAO_DIRETA', false);
+define ('DIVULGACAO_DIRETA', true);
