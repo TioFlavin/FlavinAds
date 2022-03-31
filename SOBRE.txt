@@ -1,0 +1,14 @@
+
+Por: @httd1 (Telegram)
+
+Esse bot foi feito para canais de divulgação.
+
+☆ Aceite ou recuse divulgações.
+☆ Advertências para usuário insistentes.
+☆ Limite quantas divulgações e quando o usuário poderá divulgar no seu canal.
+☆ Receba divulgações com links públicos ou privados.
+☆ Divulgue somente conteúdo de quem é membro do seu canal.
+☆ Saiba quem enviou a divulgação e quantas divulgações o usuário já fez.
+☆ Receba divulgações diretas sem necessitar de moderação.
+
+Algumas configurações pode ser alteradas no arquivo config.php na pasta /includes.

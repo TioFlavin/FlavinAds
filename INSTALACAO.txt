@@ -1,0 +1,6 @@
+
+Por: @httd1 (Telegram)
+
+Instalação simples, basta enviar todos os arquivos para o seu servidor e em seguida acessar a url https://seudominio.com/instalacao/, lá você irá preencher o formulário com todas as informações do seu bot.
+
+Qualquer dúvida, ajuda ou dica estou a disposição @httd1 ou @deletorbot
